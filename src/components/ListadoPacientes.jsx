@@ -31,7 +31,7 @@ function ListadoPacientes({ pacientes, setPaciente, eliminarPaciente }) {
               {' '}
               <span className="text-indigo-600 font-bold">aparecerán en este lugar</span>
             </p>
-          </>
+          </h2>
         )}
         
     </div>
